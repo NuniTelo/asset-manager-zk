@@ -1,0 +1,9 @@
+<zk>
+	<window title="Main Window" apply="zk.springboot.MainPageController.MainPageController">
+		<vbox>
+		<textbox id="textValue" width="800px"/>
+		<button id="clickMe">Click</button>
+		</vbox>
+	</window>
+
+</zk>
